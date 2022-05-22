@@ -1,1 +1,15 @@
-cos tu napisze w koncu
+Celem przygody jest zdobycie całej przekętej księgi
+Księga została rozbita na karty i każda z nich jest obok przedmiotu wykonanego
+ze stali meteorytowej, każdy daje możliwość by gracz zszedł 1k20 poniżej 0 w
+poczytalności.
+
+| Karta | potwor              | lokacja          |
+|-------+---------------------+------------------|
+|     1 | Sukub               | Sanatorium       |
+|     2 | Wampira             | Biedne dzielnice |
+|     3 | Ciasteczkowy potwor | ulica sezamkowa  |
+|     4 | Kraken              | Oceania          |
+|     5 | yeti                | Arktyka          |
+|     6 | Mantykora           | Gdzieś u arabów  |
+|     7 | Studnia             | pole farmeskie   |
+|     8 |                     |                  |

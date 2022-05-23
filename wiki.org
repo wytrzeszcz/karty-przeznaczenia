@@ -1,3 +1,8 @@
+Spis treści
+1. [[Miejsc
+   + [[Koci most]]
+
+
 Celem przygody jest zdobycie całej przekętej księgi
 Księga została rozbita na karty i każda z nich jest obok przedmiotu wykonanego
 ze stali meteorytowej, każdy daje możliwość by gracz zszedł 1k20 poniżej 0 w
@@ -20,4 +25,21 @@ poczytalności.
 
 <<Koci most>>
     Jedyna droga na przyklad do czesci magazynu w porcie, i tam jest duzo kotkow
-    i chcialem poprosic buleczke o jakas opinie bo ona sie zna na kotkach ale no kurde nich.....
+* TODO wymyśleć 20 opisów kotów
+aby te koty jakość obejść można:
+    a) Grać na specjalnym ultradzwiękowym flecie (tylko koty to słyszą)
+    b) Przynieść 3-4 duże ryby (jak z powrotem?)
+    c) Powystrzelać koty, ale to jest głośne
+
+<<Cmentarz na zadupiu>>
+    Gracze szukają juz typa XY bo wiedzą że ma kawałek księgi
+    Wśród grobów jest jeden
+    Z wpisami
+    XY +14 IV 1912 *5 III 1886
+    Żona XY ZY z domu ZW  +14 IV 1912 *28 VI 1888
+    Zgineli śmiercią tragiczną na morzu
+    Rodzice typa zmarli 1918 1920 (3 i rok przed kampania)
+    wazne jest W bo w panoramie firm czy czyms takim da sie znalezc
+    gdzie miejszaja starsi... oni potwierdza ze z Córka mówiła że jej
+    mąż ma przywieźć z Anglii jakieś artefakty stare (to czego szukają)
+    Z tego wynika że to czego szukają jest we wraku Tytanica

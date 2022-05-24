@@ -2,7 +2,6 @@
 * TODO Makefile
 * TODO Wymysleć zajawki na wszystkie karty
 * TODO CI ?
-* TODO pusty latex do opisu
 * TODO latex z gazetą
 * TODO latex z mapami
 * TODO przeczytać kermita
@@ -10,3 +9,6 @@
 * TODO przeczytać Lemageton
 * TODO przeczytać Magieje
 * TODO przekonać Bułeczkę do zrobienia obrazków
+* TODO Opis wampira
+* TODO Mechanika Arktyki
+* DONE TO DO pusty latex do opisu

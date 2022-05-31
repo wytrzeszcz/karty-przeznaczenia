@@ -66,3 +66,15 @@ aby te koty jakość obejść można:
 
 <<tytanic>>
     Że nie ma chuja zejść na 3km pod wodę gracze będą musili odprawić rytułał zamiany umysłow i wykożystać do tego ryboludzi jakoś...
+
+
+    <<Szuczur z dzielnicy Hobo>>
+         W dzielnicy Hobo jest typ co wygląda jak szczur.
+         Jeśli gracze podjadą samochodem jakoś za dnia zaproponuje zakład na 5$,
+         że da radę przed nimi dostać się do pompy. Oni jadą on biegnie.
+         Przed jazdą dokładnie na mapie pokazuje im trasę. Przeciętny test nawigacji
+         potwierdza że nie kłamie. Szczur ma Nawigację (tam) na 95 a akrobatykę na 75
+         Gracz musi zdać nawigację i prowadzenie pojazdów. W przypadku remisu wygyrywa
+         szczur. Niezależnie od wyniku Szczur proponuje graczom nauczyć ich sztuki szybkieg
+         poruszania się po mieście. 5 lekcji po 3$ od osoby. Za każdą gracze rozwijają
+         skille (akrobatyka, nawigacja) o K4 każdy.

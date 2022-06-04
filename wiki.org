@@ -45,12 +45,12 @@ aby te koty jakość obejść można:
     Gracze szukają juz typa XY bo wiedzą że ma kawałek księgi
     Wśród grobów jest jeden
     Z wpisami
-    XY +14 IV 1912 *5 III 1886
-    Żona XY ZY z domu ZW  +14 IV 1912 *28 VI 1888
+    John Warwick+14 IV 1912 *5 III 1886
+    Żona Anna Warwick z domu Pentee  +14 IV 1912 *28 VI 1888
     Zgineli śmiercią tragiczną na morzu
     Rodzice typa zmarli 1918 1920 (3 i rok przed kampania)
     wazne jest W bo w panoramie firm czy czyms takim da sie znalezc
-    gdzie miejszaja starsi... oni potwierdza ze z Córka mówiła że jej
+    gdzie miejszaja starsi córki...  [[Studnia][patrz studnia]] oni potwierdza ze z Córka mówiła że jej
     mąż ma przywieźć z Anglii jakieś artefakty stare (to czego szukają)
     Z tego wynika że to czego szukają jest we wraku Tytanica
 
@@ -78,3 +78,29 @@ aby te koty jakość obejść można:
          szczur. Niezależnie od wyniku Szczur proponuje graczom nauczyć ich sztuki szybkieg
          poruszania się po mieście. 5 lekcji po 3$ od osoby. Za każdą gracze rozwijają
          skille (akrobatyka, nawigacja) o K4 każdy.
+         Szczur nazywa się John McQuensee ma 20 lat i jest na ulicy od dziecka. W
+         przeciwieństwie, do innych hobo jest z NY i tu zamierza spędzić życie.
+         Jest nieprzyzwoicie uczciwy i słowny jak na człowieka ulicy. Wierzy za to w
+         demony duchy i inne takie legendy. Chętnie dołącza do graczy.
+
+
+
+
+<<Studnia>>
+            Na farmie około 6h jazdy od NY. przy małym miasteczku
+            Beneton Pensylwania, Mieszka starszy miły pan. Frank Petee.
+            Wrócił on na tą farmę "na emerytuę". Frama jest zaniedbana i właściwie
+            jest to dom z bardzo dużym ogrodem ważywnym bardziej niż farma.
+            Na farmie jest domek, szopa na narzędzia, stodoła, małe lapidarium.
+            Czyli wytarte przez czas tablice na nazwiskami przodków i postawiony
+            w 1810 mały grobowiec, częściowo zakopany w skarpie.
+            Starszy pan zachęca by przyjść na herbatkę i takie inne, ale wyraźnie
+            próbuje by gracze nie podchodzili do studni. Klamka i zawiasy od wrót
+            grobowca nie są w złym stanie. Okazuje się że Frank Petee oddał ją we
+            władanie siły nie czystej i tak na prawdę już nie żyje. Mówi i porusza się
+            bardzo bardzo powoli. W studni jest ta siła nieczysta zaklęta. Jeśli gracze ją
+            wypuszczą i poskromią, starszy pan umrze i im za to podziękuje.
+            Cała ta zadyma jest spowodowana tym, że w rozpaczy po śmieci córki i żony
+            usłyszał o jakiejś magi wskrzeszania i zrobił rytułał by móc w nocy rozmawiać z
+            żoną. (ona nie może opuścić trumny, ale mogą rozmawiać szeptem w krypcie).
+            Dla graczy dziwne są oznaki że starszy pan nie je. (może brak jedzenia poza starymi zapasami?) czy coś w te mańkę?

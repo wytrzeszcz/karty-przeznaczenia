@@ -1,13 +1,19 @@
-\documentclass{book}
+\documentclass[a5paper,15pt]{book}
+\usepackage[polish]{babel}
+\usepackage{polski}
 \usepackage[utf8]{inputenc}
 \usepackage{miama}
+\usepackage{emerald}
 \usepackage[T1]{fontenc}
 \usepackage{xcolor}
-\usepackage{emoji}
 \include{commands}
 \begin{document}
 \include{title-page}
 \tableofcontents{}
 \newpage
+\prettyhand{To jest jakieś zdanie ż{\'o}łćć kurwy nie myte,.?!\\}
+\typewriter{To jest jakieś zdanie ż{\'o}łćć kurwy nie myte,.?!\\}
+To jest jakieś zdanie ż{\'o}łćć kurwy nie myte,.?!\\
+To jest jakieś zdanie {\.z}{\'o}{\,l}{\'c} kurwy nie myte,.?!\\
 \include{przedmowa}
 \end{document}

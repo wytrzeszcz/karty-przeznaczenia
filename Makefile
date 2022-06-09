@@ -3,14 +3,16 @@
 #
 # @file
 # @version 0.1
-LATEXC=lualatex
+#LATEXC=lualatex
+LATEXC=pdflatex
 all: description
-
-description: description.tex test_descritpion
+TEXS= $(wildchar *.tex)
+description: $(TEXS) test_descritpion
 	$(LATEXC) -halt-on-error description.tex description.pdf
 
 test_descritpion: description.tex
-
+	detex description > description.txt
+#	aspell -l pl -c description.txt
 
 clean:
 	rm *.log

@@ -8,7 +8,7 @@ LATEXC=pdflatex
 all: description
 TEXS= $(wildchar *.tex)
 description: $(TEXS) test_descritpion
-	$(LATEXC) -halt-on-error description.tex description.pdf
+	$(LATEXC) -interaction=nonstopmode -halt-on-error description.tex description.pdf
 
 test_descritpion: description.tex
 	detex description > description.txt

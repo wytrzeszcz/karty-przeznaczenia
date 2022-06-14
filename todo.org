@@ -1,5 +1,5 @@
 #+title: Todo
-* TODO Makefile
+* DONE Makefile
 * TODO Wymysleć zajawki na wszystkie karty
 * TODO CI ?
 * TODO latex z gazetą
